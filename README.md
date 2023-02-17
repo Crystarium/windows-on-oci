@@ -6,10 +6,10 @@ wget https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/gr0qgpuyubgt/b/bucket
 ```
 
 
-#Informações
+# Informações
 
 - 1gb de ram, de 50 até 200gb de armazenamento
 - Windows 7 pro
 - sempre gratis
 - obs: é dificil levar ban ou suspensão, mas não é impossivel
-- EU NÃO ME TORNO RESPONSABILIZADO POR CONTAS BANIDAS OU SUSPENSAS...
+- EU NÃO ME TORNO RESPONSABILIZADO POR CONTAS BANIDAS OU SUSPENSAS!...
